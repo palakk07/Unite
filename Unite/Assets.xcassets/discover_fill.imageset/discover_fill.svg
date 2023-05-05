@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.8" height="21.519" viewBox="0 0 21.8 21.519">
+  <g id="icon_footer_home_off" data-name="icon/footer/home/off" transform="translate(-1.1 -1.24)">
+    <g id="icon_footer_home_on" data-name="icon/footer/home/on" transform="translate(1.1 1.24)">
+      <g id="Frame_28" data-name="Frame 28">
+        <rect id="Frame_28_Background_" data-name="Frame 28 (Background)" width="21.8" height="21.519" fill="none"/>
+      </g>
+    </g>
+    <path id="noun-discover-5456805" d="M134.489,52.5h-6.164a5.828,5.828,0,0,0-5.822,5.822v6.164a5.828,5.828,0,0,0,5.822,5.822h6.164a5.828,5.828,0,0,0,5.822-5.822V58.322a5.828,5.828,0,0,0-5.822-5.822Zm.438,6.253-1.658,4.11h0a.685.685,0,0,1-.37.37l-4.11,1.658h0a.685.685,0,0,1-.87-.87l1.658-4.144h0a.685.685,0,0,1,.37-.37l4.144-1.658h0a.685.685,0,0,1,.836.9Z" transform="translate(-119.407 -47.907)" fill="#6a1793"/>
+  </g>
+</svg>
